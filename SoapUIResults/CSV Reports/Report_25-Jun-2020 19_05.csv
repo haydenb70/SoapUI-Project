@@ -1,0 +1,5 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite1","TestCase 1","Add","request","OK","","25-Jun-2020 19_05",
+"TestSuite1","TestCase 1","Groovy Script","groovy","OK","","25-Jun-2020 19_05",
+"TestSuite1","TestCase 1","Multiply","request","OK","","25-Jun-2020 19_05",
+"TestSuite1","TestCase 1","MyProperties","properties","OK","","25-Jun-2020 19_05",
